@@ -10,7 +10,7 @@ Because you are an ADS-B feeder, you will be able to make $10 worth of free API 
 
 Download the files from this repository and put them on your Raspberry Pi.
 
-Make sure you unzip Logo.zip.
+Make sure you unzip logos.zip.
 
 Install Pillow and Requests with:
 pip install pillow requests

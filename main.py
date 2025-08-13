@@ -17,7 +17,7 @@ LOGO_DIR = SCRIPT_DIR / "logos"
 PING_FILE = SCRIPT_DIR / "ping.mp3"
 LOG_FILE = SCRIPT_DIR / "vliegtuigmonitor.log"
 
-# === Configuratie scherm ===
+# === Configuratie grote + snelheid scherm ===
 SCREEN_WIDTH = 800
 SCREEN_HEIGHT = 450
 SCROLL_SPEED = 0.1
@@ -31,7 +31,7 @@ MAX_LON = 5.30444
 
 # === API instellingen ===
 AIRCRAFT_URL = "http://localhost:8080/data/aircraft.json"
-AEROAPI_TOKEN = "ZET HIER je TOKEN VAN FLIGHTAWARE NEER"
+AEROAPI_TOKEN = "ZET HIER JE TOKEN VAN FLIGHTAWARE NEER"
 AEROAPI_URL = "https://aeroapi.flightaware.com/aeroapi/flights/"
 
 # === Logging instellen ===

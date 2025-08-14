@@ -23,6 +23,7 @@ Determine your location via https://boundingbox.klokantech.com/ and enter it und
 === Flight Area Configuration ===
 
 Example:
+
 MIN_LAT = 52.61889
 MAX_LAT = 52.79250
 MIN_LON = 4.97778
